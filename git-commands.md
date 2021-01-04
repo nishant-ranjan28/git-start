@@ -13,7 +13,7 @@
 * Create branch
 > git checkout -b "branch-name"
 
-* Push your ciode in branch
+* Push your code in branch
 > git push origin "branch-name"
 
 * To create PR (Pull request)
